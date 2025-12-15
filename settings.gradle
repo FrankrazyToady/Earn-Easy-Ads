@@ -1,0 +1,2 @@
+rootProject.name = "EarnEasyAds"
+include ':app'
